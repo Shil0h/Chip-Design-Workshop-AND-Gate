@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+This project utilizes two switches with an AND gate to power an LED
 
 ## How to test
 
-Explain how to use your project
+Test the first and second switch in ON and OFF positions to test AND gate via LED light.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+One LED
